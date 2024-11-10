@@ -1,6 +1,6 @@
 package com.example.MultiThreading.Synchronization;
 
-public class Example {
+public class SynchronizationDemo {
     private static int counter = 0;
     public static void main(String[] args) {
 
